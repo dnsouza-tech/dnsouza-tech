@@ -39,7 +39,8 @@ Professional transitioning from a commercial background into software quality as
 
 ## Projects
 
-Coming soon: repositories with test plans, documented test cases, and bug reports.
+### [sauce-demo-qa](https://github.com/dnsouza-tech/sauce-demo-qa)
+Manual QA project on a demo e-commerce application. Includes test plan, test cases in Gherkin (BDD), bug reports with business impact assessment, and a full test summary report.
 
 ---
 
